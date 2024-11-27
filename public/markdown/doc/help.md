@@ -11,6 +11,9 @@ Slate AI is a local dashboard for working with your chat and image conversations
 - Saves conversations locally as JSON to reload and continue anytime. 
 - Exports to markdown files with chat and images intact, no links required.
 
+## Example Files
+Slate AI comes with two example files you can load and continue. Click the **Load** button on the toolbar and navigate to the application's `/public/json` folder to find them.
+
 ## Chat Conversations
 When you start Slate AI, you're on the **Chat** tab, the place to launch a new conversation on a particular topic.
 
@@ -23,7 +26,6 @@ When you start Slate AI, you're on the **Chat** tab, the place to launch a new c
 - You can save the conversation as a JSON file using the **JS** button in the top navigation bar.
 - You can load and continue the conversation with the **Load** button on the nav bar.
 - You can export the conversation to Markdown using the **MD** button in the nav bar.
-- The chat tab's UI appearance was created earlier and is one generation behind the images tab, but functions identically.
 
 ## Image Conversations & Storyboards
 On the **Images** tab, you can create a storyboard of related images under a single master prompt.
