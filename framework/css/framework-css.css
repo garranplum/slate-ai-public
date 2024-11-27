@@ -1,0 +1,80 @@
+:host {
+  font-family: "Inter";
+}
+
+a {
+  text-decoration: none;
+}
+
+/* Text Classes */
+.elide {
+  text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: nowrap;
+}
+
+.whiteHeaderText {
+  color: white;
+  font-weight: 500;
+}
+
+.right {
+  text-align: right;
+}
+
+.xsmall {
+  font-size: 0.5em;
+}
+
+.small {
+  font-size: 0.75em;
+}
+
+.medium {
+  font-size: 1em;
+}
+
+.large {
+  font-size: 1.25em;
+}
+
+.xlarge {
+  font-size: 1.5em;
+}
+
+/* Background Colors */
+.veryDarkGreyBk {
+  background-color: #606060;
+}
+
+.darkGreyBk {
+  background-color: #aaa;
+}
+
+.gridHeader {
+  background-color: #bbb;
+}
+
+.greyBk {
+  background-color: #ccc;
+}
+
+.activeBk {
+  background-color: #aaa;
+}
+
+/* Scaling Container */
+.container {
+  position: relative;
+  width: 100%;
+  height: 0;
+  padding-bottom: 56.25%;
+}
+
+.fill {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}

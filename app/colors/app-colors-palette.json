@@ -1,0 +1,22 @@
+{
+  "red": "#dc2f2f",
+  "orange-red": "#e1442f",
+  "orange": "#ea6c34",
+  "yellow-orange": "#f09232",
+  "orange-yellow": "#f4c325",
+  "yellow": "#f2dc1f",
+  "green-yellow": "#b9ce3c",
+  "yellow-green": "#92c14c",
+  "green": "#38aa56",
+  "blue-green": "#20a58d",
+  "sea-green": "#1ba29b",
+  "green-blue": "#1ab0d2",
+  "blue": "#3b458e",
+  "violet-blue": "#483d82",
+  "blue-violet": "#673e8c",
+  "violet": "#88388b",
+  "purple-violet": "#9a3581",
+  "purple": "#c52b8b",
+  "red-purple": "#e41986",
+  "purple-red": "#d72958"
+}

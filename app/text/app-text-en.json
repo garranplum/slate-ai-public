@@ -1,0 +1,10 @@
+{
+  "menu": {
+    "home": "Home",
+    "about": "About",
+    "contact": "Contact"
+  },
+  "app": {
+    "name": "David Bethune"
+  }
+}

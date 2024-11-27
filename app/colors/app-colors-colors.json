@@ -1,0 +1,10 @@
+{
+  "debug": {
+    "apiFetch": "#f4c325",
+    "apiResponse": "#92c14c",
+    "apiError": "#e1442f",
+    "system": "#1e8cd5",
+    "cookie": "#1ab0d2",
+    "warning": "#f4c325"
+  }
+}

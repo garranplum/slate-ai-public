@@ -1,0 +1,35 @@
+.component {
+  margin: 2em 5%;
+  display: grid;
+  grid-template-rows: 1fr;
+  grid-gap: 1em;
+}
+.nav {
+  font-size: 1.25em;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+ol,
+ul {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+
+p {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+img {
+  max-width: 100%;
+}
+video {
+  max-width: 100%;
+}
+a:link,
+a:visited,
+a:hover {
+  text-decoration: underline;
+}
